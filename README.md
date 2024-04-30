@@ -1,4 +1,4 @@
-# AML_project
+# AML-project
 
 ## Training
 The file called fans_.py is used to train unsupervised GANs. But a features.csv, which is the feature representation generated from MoCo model, is needed to be the input to the GANs model. 
