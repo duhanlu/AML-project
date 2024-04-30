@@ -7,3 +7,6 @@ The file called fans_.py is used to train unsupervised GANs. But a features.csv,
 load_model.py can be used to load the trained model and generate images within 10 classes, in which 0 to 9 represents airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck seperatively. 
 
 ## Models
+* Original GANs model:
+* Unsupervised GANs model with pretrained MoCo:
+* Unsupervised GANs model with newly trained MoCo: 
